@@ -1,0 +1,1 @@
+contextual_input_declaration = "contextual input is '{contextual_input}'"
