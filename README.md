@@ -187,7 +187,7 @@ Each experiment produces: - JSON logs of model outputs\
 
 ------------------------------------------------------------------------
 
-## 🔧 Troubleshooting
+## 🔧 Common Troubleshooting
 
 -   **CUDA Memory Issues** → Script auto-clears GPU memory using
     `torch.cuda.empty_cache()`\
@@ -199,12 +199,11 @@ Each experiment produces: - JSON logs of model outputs\
 
 ## 🧑‍💻 Authors
 
-**Neuro_SMEval Research Team**\
-Department of Computational Neuroscience\
+**NIH Stroke Scale Research Team, 2025**\
 Boston University / NOC Lab
 
 ------------------------------------------------------------------------
 
 ## 📜 License
 
-This project is for **research and evaluation purposes only**.
+This project is for **research and evaluation purposes only**, endorsed by MIT license for scientific distribution.
