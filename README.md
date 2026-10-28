@@ -34,8 +34,6 @@ modular code.
     │       └── README.pdf
     │
     ├── scripts/
-    │   ├── bash_run70B.sh
-    │   └── run_withGPT_GoldSilver_AllAblExpr_250806fix_250819update.py
     │
     ├── src/
     │   └── Neuro_SMEval/
